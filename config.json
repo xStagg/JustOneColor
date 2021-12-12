@@ -1,0 +1,50 @@
+{
+    "1": {
+        "arrow": "NSWE",
+        "color": "red"
+    },
+    "2": {
+        "arrow": "NSWE",
+        "color": "green"
+    },
+    "3": {
+        "arrow": "None",
+        "color": "green"
+    },
+    "4": {
+        "arrow": "NSWE",
+        "color": "green"
+    },
+    "5": {
+        "arrow": "NSWE",
+        "color": "green"
+    },
+    "6": {
+        "arrow": "None",
+        "color": "red"
+    },
+    "7": {
+        "arrow": "NSWE",
+        "color": "green"
+    },
+    "8": {
+        "arrow": "None",
+        "color": "red"
+    },
+    "9": {
+        "arrow": "None",
+        "color": "red"
+    },
+    "10": {
+        "arrow": "NSWE",
+        "color": "green"
+    },
+    "11": {
+        "arrow": "None",
+        "color": "red"
+    },
+    "12": {
+        "arrow": "NSWE",
+        "color": "red"
+    }
+}
